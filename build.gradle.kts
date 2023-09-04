@@ -64,9 +64,6 @@ protobuf {
     }
 }
 
-
-
-
 dependencies {
     implementation("io.ktor:ktor-server-core-jvm")
     implementation("io.ktor:ktor-server-cio-jvm")
